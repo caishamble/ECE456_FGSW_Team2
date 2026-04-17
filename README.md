@@ -131,12 +131,12 @@ PGD is the stronger attack at small, imperceptible ε values, confirming FGSM un
 
 | Name | Contribution |
 |---|---|
-| Xiangbo Cai | |
-| Daniel Liu | |
-| Everett Edwards | |
-| Sardar Rafayet Bin Murtaza | |
-| Hussain Alabbad | |
-| Matthew Atkinson | |
+| Xiangbo Cai | Model Training, Conceptualization |
+| Daniel Liu | FGSW Model attacking, Writing|
+| Everett Edwards | Model Training, Conceptualization|
+| Sardar Rafayet Bin Murtaza | FGSW Model attacking, Writing|
+| Hussain Alabbad | FGSW Model attacking, Writing|
+| Matthew Atkinson | Writing, Literature review|
 
 ---
 
